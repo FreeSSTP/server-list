@@ -14,3 +14,7 @@ IT.png
 CL.png
 
 TW.png
+
+GU.png
+
+KH.png
