@@ -18,3 +18,5 @@ TW.png
 GU.png
 
 KH.png
+
+HK.png
