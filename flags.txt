@@ -10,3 +10,7 @@ TH.png
 US.png
 VN.png
 IT.png
+
+CL.png
+
+TW.png
