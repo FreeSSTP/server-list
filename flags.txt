@@ -22,3 +22,9 @@ KH.png
 HK.png
 
 BE.png
+
+AE.png
+
+UA.png
+
+FR.png
