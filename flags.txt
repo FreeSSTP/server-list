@@ -36,3 +36,5 @@ PL.png
 BR.png
 
 LV.png
+
+CO.png
