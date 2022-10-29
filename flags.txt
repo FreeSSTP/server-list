@@ -19,4 +19,8 @@ BE.png
 AE.png
 UA.png
 FR.png
-MX.pn
+MX.png
+PL.png
+BR.png
+LV.png
+CO.png
