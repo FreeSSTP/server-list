@@ -25,15 +25,9 @@ BR.png
 LV.png
 CO.png
 HU.png
-
 IN.png
-
 PE.png
-
 LT.png
-
 SG.png
-
 DE.png
-
 SA.png
