@@ -29,3 +29,9 @@ HU.png
 IN.png
 
 PE.png
+
+LT.png
+
+SG.png
+
+DE.png
