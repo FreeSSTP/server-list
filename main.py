@@ -25,8 +25,9 @@ def download_flag(flag_url):
             f.write(r.content)
         
         with open('flags.txt', 'w') as fff:
-            for i in flag_list and i.strip() != '':
-                fff.write(i.strip() + '\n')
+            for i in flag_list:
+                if i.strip() != '':
+                    fff.write(i.strip() + '\n')
             fff.close()
 
     else:
