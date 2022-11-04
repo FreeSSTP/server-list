@@ -32,3 +32,4 @@ SG.png
 DE.png
 SA.png
 GE.png
+NO.png
