@@ -33,3 +33,5 @@ DE.png
 SA.png
 GE.png
 NO.png
+FI.png
+BG.png
