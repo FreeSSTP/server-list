@@ -36,3 +36,4 @@ NO.png
 FI.png
 BG.png
 BD.png
+VE.png
