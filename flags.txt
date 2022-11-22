@@ -43,3 +43,6 @@ TR.png
 AR.png
 DK.png
 MN.png
+BY.png
+GT.png
+MD.png
