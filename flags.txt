@@ -48,3 +48,4 @@ GT.png
 MD.png
 PK.png
 RS.png
+CZ.png
