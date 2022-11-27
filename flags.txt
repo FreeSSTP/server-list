@@ -50,3 +50,4 @@ PK.png
 RS.png
 CZ.png
 PH.png
+UY.png
