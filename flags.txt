@@ -51,3 +51,5 @@ RS.png
 CZ.png
 PH.png
 UY.png
+SE.png
+MY.png
