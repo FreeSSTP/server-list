@@ -56,3 +56,4 @@ MY.png
 TT.png
 AZ.png
 MM.png
+PA.png
