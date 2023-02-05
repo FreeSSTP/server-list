@@ -64,3 +64,4 @@ CR.png
 QA.png
 IL.png
 ES.png
+PS.png
