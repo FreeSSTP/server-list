@@ -67,3 +67,4 @@ ES.png
 PS.png
 SI.png
 BA.png
+KZ.png
