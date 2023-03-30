@@ -70,3 +70,5 @@ BA.png
 KZ.png
 EU.png
 UZ.png
+AM.png
+GR.png
