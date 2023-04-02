@@ -72,3 +72,4 @@ EU.png
 UZ.png
 AM.png
 GR.png
+SR.png
