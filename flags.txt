@@ -75,3 +75,4 @@ GR.png
 SR.png
 EG.png
 EE.png
+LA.png
