@@ -76,3 +76,4 @@ SR.png
 EG.png
 EE.png
 LA.png
+LC.png
