@@ -80,3 +80,4 @@ LC.png
 IR.png
 SK.png
 DZ.png
+CH.png
