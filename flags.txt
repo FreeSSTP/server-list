@@ -81,3 +81,4 @@ IR.png
 SK.png
 DZ.png
 CH.png
+HR.png
