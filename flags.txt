@@ -82,3 +82,4 @@ SK.png
 DZ.png
 CH.png
 HR.png
+MO.png
