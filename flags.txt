@@ -84,3 +84,4 @@ CH.png
 HR.png
 MO.png
 MT.png
+GH.png
