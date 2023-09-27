@@ -86,3 +86,4 @@ MO.png
 MT.png
 GH.png
 NZ.png
+ZA.png
