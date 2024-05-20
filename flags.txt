@@ -96,3 +96,4 @@ GP.png
 BH.png
 GD.png
 TJ.png
+BZ.png
